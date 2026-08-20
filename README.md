@@ -48,7 +48,7 @@ A full-stack, distributed Library Management System built with a React frontend 
         Java 21, Spring Boot 4, Spring Cloud
 
 - **Service Discovery:**
-        Java 25, Spring Boot 4, Spring Cloud
+        Java 21, Spring Boot 4, Spring Cloud
 
 - **API Gateway & Configurations:**
         Spring Cloud Gateway & Config Server
